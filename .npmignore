@@ -1,0 +1,10 @@
+.vscode
+.idea
+src
+vite.config.ts
+bun.lock
+.prettierrc
+index.html
+tsconfig.json
+tsconfig.esm.json
+tsconfig.umd.json

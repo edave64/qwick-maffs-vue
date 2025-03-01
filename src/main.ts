@@ -1,1 +1,1 @@
-export * from "./qwick-maffs.vue";
+export { default as default } from "./qwick-maffs.vue";
